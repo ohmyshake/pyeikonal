@@ -1,4 +1,4 @@
-# EIKPY
+# pyeikonal
 
 [![Actions Status](https://github.com/shakeflow/eikpy/actions/workflows/workflow.yml/badge.svg)](https://github.com/shakeflow/eikpy/actions)
 [![coverage](https://codecov.io/gh/shakeflow/eikpy/branch/main/graph/badge.svg)](https://codecov.io/gh/shakeflow/eikpy)

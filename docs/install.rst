@@ -3,7 +3,7 @@
 Installing
 ==========
 
-Install the EIKPY package
+Install the pyeikonal package
 -------------------------
 
 123

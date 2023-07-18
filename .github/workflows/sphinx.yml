@@ -23,7 +23,7 @@ jobs:
           pip install sphinx pydata-sphinx-theme sphinx-autoapi jupyter-sphinx sphinx-copybutton
           cd docs
           make html
-          echo "eikpy.shakeflow.org" > _build/html/CNAME
+          echo "pyeikonal.shakeflow.org" > _build/html/CNAME
           cd ..
 
       - name: push to github page

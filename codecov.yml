@@ -4,6 +4,6 @@ coverage:
     patch: off
 
 ignore:
-  - "eikpy/tests/*"
+  - "pyeikonal/tests/*"
 
 comment: true

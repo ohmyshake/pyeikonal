@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "eikpy"
-version = "0.0.3"
+name = "pyeikonal"
+version = "0.0.4"
 description = "Eikonal equation solver in Python"
 authors = ["OUCyf <oucyinfu@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.md"
-include = ["eikpy/**/*.py", "pyproject.toml"]
+include = ["pyeikonal/**/*.py", "pyproject.toml"]
 classifiers = [
         "Development Status :: 2 - Pre-Alpha",
         "Environment :: Console",
