@@ -1,0 +1,15 @@
+:py:mod:`pyeikonal.config`
+==========================
+
+.. py:module:: pyeikonal.config
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   main/index.rst
+
+
