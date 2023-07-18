@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "eikpy"
-version = "0.0.2"
+version = "0.0.3"
 description = "Eikonal equation solver in Python"
 authors = ["OUCyf <oucyinfu@gmail.com>"]
 license = "Apache-2.0"

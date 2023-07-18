@@ -1,5 +1,0 @@
-name: eikpy
-channels:
-  - conda-forge
-dependencies:
-  - numpy
